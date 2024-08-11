@@ -1,0 +1,11 @@
+AntenatalID,PatientID,FirstVisitDate,ExpectedDeliveryDate,RiskFactors
+1,101,2024-01-10,2024-10-15,"High blood pressure"
+2,102,2024-02-20,2024-11-25,"Gestational diabetes"
+3,103,2024-03-15,2024-12-10,None
+4,104,2024-04-05,2024-12-20,Anemia
+5,105,2024-05-12,2025-01-15,"Thyroid issues"
+6,106,2024-06-18,2025-02-22,None
+7,107,2024-07-22,2025-03-30,"Previous preterm birth"
+8,108,2024-08-29,2025-04-25,Hypertension
+9,109,2024-09-15,2025-05-10,None
+10,110,2024-10-05,2025-06-01,Diabetes

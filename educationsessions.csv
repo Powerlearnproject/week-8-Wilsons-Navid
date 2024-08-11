@@ -1,0 +1,11 @@
+SessionID,ProgramID,Topic,Date,Duration,Location
+1,1,"Nutrition in Pregnancy",2024-03-15,01:30:00,"Community Center"
+2,2,"Managing Stress",2024-04-20,02:00:00,"Health Clinic"
+3,3,"Exercise Safety",2024-05-25,01:00:00,"Local Gym"
+4,4,"Birth Planning",2024-06-30,02:30:00,"Hospital Auditorium"
+5,5,"Understanding Labor",2024-07-10,01:45:00,"Online Webinar"
+6,6,"Postpartum Depression",2024-08-15,02:00:00,"Mental Health Center"
+7,7,"Breastfeeding Basics",2024-09-20,01:15:00,"Health Clinic"
+8,8,"Newborn Care",2024-10-25,01:30:00,"Community Hall"
+9,9,"Family Planning",2024-11-30,01:00:00,"Family Center"
+10,10,"Vaccination Importance",2024-12-05,01:20:00,"Public Library"
